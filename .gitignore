@@ -5,3 +5,5 @@ users.txt
 php/fetch-images.php
 
 .idea/
+
+.DS_Store
