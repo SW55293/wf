@@ -3,3 +3,5 @@ unchanged/
 public_html/
 users.txt
 php/fetch-images.php
+
+.idea/
